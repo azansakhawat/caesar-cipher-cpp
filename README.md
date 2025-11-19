@@ -2,8 +2,10 @@
 
 This is the simple C++ program that convert the text into encryption and then into decrption
 
-## Encryption: Process of protecting data by convert it inti a secret code
-## Decryption: Process of converting encryption back into original text
+## Encryption:
+Process of protecting data by convert it inti a secret code
+## Decryption:
+Process of converting encryption back into original text
 
 ## Features:
 Convert text into encryption
