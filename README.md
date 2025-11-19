@@ -8,20 +8,20 @@ Process of protecting data by convert it inti a secret code
 Process of converting encryption back into original text
 
 ## Features:
-Convert text into encryption
-Convert encryption into decryption
+- Convert text into encryption
+- Convert encryption into decryption
 
 ## Why i made this project:
 learning Cyber Security concepts:
-Encryption and decyrption
-Improving logic building
-Practicing C++
+- Encryption and decyrption
+- Improving logic building
+- Practicing C++
 
 ## Example Output:
-Enter your Message: HelloWorld
-Enter Key: 2
-Encrypted Message: JgnnqYqtnf
-Decrypted Message: HelloWorld
+- Enter your Message: HelloWorld
+- Enter Key: 2
+- Encrypted Message: JgnnqYqtnf
+- Decrypted Message: HelloWorld
 
 ## Technologies Used
 C++
